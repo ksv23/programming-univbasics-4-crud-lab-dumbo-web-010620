@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array << element
+  end_of_array = ["0", "1", "2", "3"]
 end
 
 def add_element_to_start_of_array(array, element)
@@ -37,3 +37,6 @@ end
 def update_element_from_index(array, index_number, element)
 
 end
+
+
+add_element_to_end_of_array(, "5")
