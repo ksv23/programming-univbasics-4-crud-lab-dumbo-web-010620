@@ -38,6 +38,3 @@ end
 def update_element_from_index(array, index_number, element)
 
 end
-
-
-add_element_to_end_of_array(array, "arrays!")
